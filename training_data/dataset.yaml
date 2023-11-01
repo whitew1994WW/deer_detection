@@ -1,0 +1,22 @@
+names:
+- Leopard
+- AmurTiger
+- Badger
+- BlackBear
+- Cow
+- Dog
+- Hare
+- LeopardCat
+- MuskDeer
+- RaccoonDog
+- RedFox
+- RoeDeer
+- Sable
+- SikaDeer
+- Weasel
+- WildBoar
+- Y.T.Marten
+nc: 17
+path: ..
+train: deer_detection\training_data\images
+val: deer_detection\training_data\images
