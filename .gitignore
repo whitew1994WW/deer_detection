@@ -165,3 +165,18 @@ cython_debug/
 *.png
 *.gif
 *.xml
+
+# ML files
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.pt
+*.ckpt
+*.json
+
+# Detr repo
+detr
+
+# Lightning logs
+lightning_logs

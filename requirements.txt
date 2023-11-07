@@ -1,3 +1,5 @@
 pylabel
 pandas
 transformers
+patoollib
+huggingface_hub
