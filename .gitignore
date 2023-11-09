@@ -174,9 +174,12 @@ cython_debug/
 *.pt
 *.ckpt
 *.json
+*.mp4
 
 # Detr repo
 detr
 
 # Lightning logs
 lightning_logs
+
+wandb
